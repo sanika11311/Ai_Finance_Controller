@@ -1,0 +1,6 @@
+{
+  "name": "AI Finance Controller",
+  "description": "Automates expense tracking, budget forecasting, and real-time financial reporting for small businesses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
