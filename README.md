@@ -399,12 +399,10 @@ This approach makes AI Finance Controller more than a conventional expense track
 
 ## 👨‍💻 Contributors
 
-**Mr. Shreyash Udayrao Mane**
+**Mrs. Sanika Hanmant Pawar **
 Computer Engineering Department
 D. Y. Patil School of Engineering & Management, Kolhapur
 
----
 
-## 📄 License
 
-This project is licensed under the **MIT License**.
+
