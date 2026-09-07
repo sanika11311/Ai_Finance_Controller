@@ -399,7 +399,7 @@ This approach makes AI Finance Controller more than a conventional expense track
 
 ## 👨‍💻 Contributors
 
-**Mrs. Sanika Hanmant Pawar **
+Ms. Sanika Hanmant Pawar 
 Computer Engineering Department
 D. Y. Patil School of Engineering & Management, Kolhapur
 ---
